@@ -1,3 +1,6 @@
 # ghamzak.github.io
 
-**Hello World**
+# Ghazaleh Kazeminejad
+
+## PhD student in Computational Linguistics . University of Colorado Boulder . firstname.lastname@colorado.edu
+
