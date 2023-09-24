@@ -1,2 +1,1 @@
-# ghamzak.github.io
-# ghamzak.github.io
+The personal website of Dr. Ghazaleh Kazeminejad.
